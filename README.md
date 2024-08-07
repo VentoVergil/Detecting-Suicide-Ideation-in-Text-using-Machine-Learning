@@ -1,4 +1,4 @@
-# Detecting-Suicide-Ideation-in-Text-using-Machine-Learning
+# Detecting Suicide Ideation in Text using Machine Learning
 This project investigates the use of natural language processing (NLP) and machine learning (ML) techniques to automatically detect suicide ideation in text data.
 
 # Problem Statement
